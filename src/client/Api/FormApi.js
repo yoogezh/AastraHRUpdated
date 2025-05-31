@@ -1,5 +1,5 @@
 // src/api/CandidateApi.js
-import client from '../client';
+import client from '../Client.js';
 
 const getAllCandidates = async () => {
   try {
